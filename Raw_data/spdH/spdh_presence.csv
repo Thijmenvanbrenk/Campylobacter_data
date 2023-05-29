@@ -1,0 +1,19 @@
+Source,All isolates,SpdH positive,Percentage presence,Kind
+Pigs NL,10,8,80%,non_ruminant
+Veal calves NL,39,26,67%,ruminant
+Lamb UK,135,86,64%,ruminant
+Beef UK,100,57,57%,ruminant
+Sheep UK,290,158,55%,ruminant
+Cattle NL,157,84,54%,ruminant
+Cattle UK,364,146,40%,ruminant
+Sheep/Goat NL,85,33,39%,ruminant
+Pets NL,95,19,20%,non_ruminant
+Water NL,76,11,15%,non_ruminant
+Wild bird NL,48,7,15%,non_ruminant
+Human NL,272,39,14%,non_ruminant
+Wild bird UK,36,5,14%,non_ruminant
+Layers NL,55,4,7%,non_ruminant
+Chicken UK,2525,169,7%,non_ruminant
+Chicken/Turkey NL,223,13,6%,non_ruminant
+Duck UK,65,3,5%,non_ruminant
+Turkey UK,103,5,5%,non_ruminant

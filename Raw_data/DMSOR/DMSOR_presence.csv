@@ -1,0 +1,29 @@
+Source,Species,All isolates,DMSOR positive,Percentage presence,Kind
+Cattle NL,C. jejuni,157,53,34%,non-bird
+Chicken/Turkey NL,C. jejuni,223,68,30%,non-bird
+Human NL,C. jejuni,272,62,23%,non-bird
+Layer NL,C. jejuni,55,30,55%,non-bird
+Pet NL,C. jejuni,95,40,42%,non-bird
+Pig NL,C. jejuni,10,2,20%,non-bird
+Sheep/Goat NL,C. jejuni,85,30,35%,non-bird
+Veal calves NL,C. jejuni,39,3,8%,non-bird
+Water NL,C. jejuni,76,64,84%,bird
+Wild birds NL,C. jejuni,48,45,94%,bird
+Beef UK,C. jejuni,100,16,16%,non-bird
+Cattle UK,C. jejuni,364,90,25%,non-bird
+Chicken UK,C. jejuni,2525,771,31%,non-bird
+Duck UK,C. jejuni,65,57,88%,bird
+Lamb UK,C. jejuni,135,12,9%,non-bird
+Sheep UK,C. jejuni,290,29,10%,non-bird
+Turkey UK,C. jejuni,103,44,43%,non-bird
+Wild bird UK,C. jejuni,36,28,78%,bird
+Cattle NL,C. coli,1,0,0%,non-bird
+Chicken/Turkey NL,C. coli,15,0,0%,non-bird
+Human NL,C. coli,8,0,0%,non-bird
+Layer NL,C. coli,1,0,0%,non-bird
+Pet NL,C. coli,5,3,60%,non-bird
+Pig NL,C. coli,100,0,0%,non-bird
+Sheep/Goat NL,C. coli,25,0,0%,non-bird
+Veal calves NL,C. coli,10,0,0%,non-bird
+Water NL,C. coli,177,106,60%,bird
+Wild birds NL,C. coli,15,9,60%,bird

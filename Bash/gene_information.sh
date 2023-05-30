@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# first argument must be gene name
+# (optional) second argument must be "yes" if you want to blast against all genomes
+# third argument is cpu's
+# perform this script in a directory that contains the "orthology/pan_genome_sequences" folder
+# if you want to perform blast on all genomes, make sure the "~/DEPICT_analyses/DEPICT_genomes/" is present
+# an example of the output can be found in "Example_gene_information_isolates_coli_jejuni" and "Example_gene_information_summary"
+
+
 # check gene name availability
 file_numbers=`ls orthology/pan_genome_sequences/ | grep ""$1".fa.aln" | wc -w`;
 if [ $file_numbers == 0 ]

@@ -2,9 +2,13 @@
 
 # first argument must be gene name
 # second argument must be database name
-# third argument must be the name of the directory with the summary file
+# third argument must be the name of the directory with the summary file created by the "gene_information.sh" script
 # (optional) fourth options must be "yes" if you want to blast against self chosen operon
 # (optional) fifth option must be file name of self chosen operon
+
+# this script depends on the following directories: "~/difference_analyses/", 
+#                                                   "~/MLST_analyses/MLST_genomes_databasename"
+# an example of the output can be found in "summary_MLST_Example_gene_confirmation_UK_animals_jejuni.txt"
 
 echo "performing" $1 "blast check on" $2 "PubMLST database";
 

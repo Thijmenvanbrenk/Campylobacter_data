@@ -1,0 +1,188 @@
+Nucleotide sequence:
+
+>103292-003-002.fasta_00124
+atgcaaagaagagactttcttaatggcatggccttagctgtcgttgcaggcatgacaccc
+ttacaattactctatggaaaagatagtaaaattgaagactttacaaaagaatactatcct
+cccaatctacttggattaagaggtagtaataataaaagctataaatacgctcacatgtta
+agagatggagataaatttggttttagcagtataaaacctaaagaaaattatgatttagta
+atcgttggagctggaatcagtggactagctgcagcttgtttttatcaacaaaaatttggg
+gaaaataaaaaaattttaattcttgacaatcatgatgattttggaggacatgctagacgc
+aatgaaatacaacttgatgaaggaaccattttaagttacggaggaagtgaaagttttcaa
+tccccaaaagcactttattct-aaagaagtaatcgaactcttaaaatcacttggagtcag
+tatagatgaattagcaaaacgatttgatgtaaatttttacccagatttaaaattaagcag
+aggggtatatttttcaaaagaaaattttggtgttgataaagttgtcaatggaaatcctag
+aaaagttatttgtgatgatatcccagattctaaaaataatggaaaaagtattgaaaattt
+tattaaagattttcctatgacttctaaagataaaagagagttaatatccctttttaaaag
+caataaagactatctcaaaggtttaagcaaagaggaaaaagaagaatatatggctaaaac
+aagttataaaaaattcttagaagaaaaagtaaaattatcccaa-aaagctataacatttt
+tcgagggaatgacggatgattttttagctttaggtatagatgcaatctcttgtgaggatg
+caagaatttcttttttacctgggtttgataaattaggacttgatcctatcgaaggagaag
+ctttggccgaaatggaagaaccttacatttatcattgcgccgatggaaatgctacagtag
+caagattaatggtaagaaagctgattcctacagtgtcacaaaaaggt-aaagatatggac
+gatatcaccttagctcattttgactactcaaaacttgatgactctaataataaagttcgt
+ttacgattaaatagtactgttattcatgtagaaaatacaaaaaatggaaccttaataagc
+tatatcaatcaaggaaaaaaatatagaattaaagcaaaaaatgttgtaatggctaattat
+aacaatatgattccttatattatccctagtttacctaaagaacaaaaagaagccttaagt
+aaaaatgtaaaaacatctctacttcacaccaaagtaattataagcaattgggaaccattt
+attaaactaggggttcatgaaatttattcaccaaaaatgccttacgctagaacaaaactt
+gattatccggttgatatgggtggctatcatcatccaagagatccaaaaaaacctatatgt
+attcatatggtttgctctcctttagctctagccaatattcaaggtattgatcttgaaggg
+cttgatgcaagagatagagccagagtaggtagaaatctattgtttaccatgagttttgaa
+gaacatgaaaaaatcattagggggcagcttcaaggaatgttgggaactgcaggttttaac
+cacgaaaaagatatattagcaattgttgtaaatcgctggggacattgttactcctat-ac
+agaaaatagtctttatgatgatcctaaaattgcagagcaaaccaggcttatagctagaaa
+accttttggcaatattgttatagctaattcagattcagattggtcagcttatatgcattc
+agctatcgaccaagcttatcgcgctattaatgagatcaaggcttag
+
+Amino acid sequence:
+
+>103292003002.fasta_00124_1
+MQRRDFLNGMALAVVAGMTPLQLLYGKDSKIEDFTKEYYPPNLLGLRGSNNKSYKYAHML
+RDGDKFGFSSIKPKENYDLVIVGAGISGLAAACFYQQKFGENKKILILDNHDDFGGHARR
+NEIQLDEGTILSYGGSESFQSPKALYSKEVIELLKSLGVSIDELAKRFDVNFYPDLKLSR
+GVYFSKENFGVDKVVNGNPRKVICDDIPDSKNNGKSIENFIKDFPMTSKDKRELISLFKS
+NKDYLKGLSKEEKEEYMAKTSYKKFLEEKVKLSQKAITFFEGMTDDFLALGIDAISCEDA
+RISFLPGFDKLGLDPIEGEALAEMEEPYIYHCADGNATVARLMVRKLIPTVSQKGKDMDD
+ITLAHFDYSKLDDSNNKVRLRLNSTVIHVENTKNGTLISYINQGKKYRIKAKNVVMANYN
+NMIPYIIPSLPKEQKEALSKNVKTSLLHTKVIISNWEPFIKLGVHEIYSPKMPYARTKLD
+YPVDMGGYHHPRDPKKPICIHMVCSPLALANIQGIDLEGLDARDRARVGRNLLFTMSFEE
+HEKIIRGQLQGMLGTAGFNHEKDILAIVVNRWGHCYSYTENSLYDDPKIAEQTRLIARKP
+FGNIVIANSDSDWSAYMHSAIDQAYRAINEIKA*
+Sequences producing significant alignments:                          (Bits)  Value
+
+  WP_002857910.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductas...  1308    0.0  
+  AGV49761.2 spermidine dehydrogenase [Campylobacter jejuni subsp...  1308    0.0  
+  WP_079757494.1 NAD(P)/FAD-dependent oxidoreductase [Campylobact...  1307    0.0  
+  WP_002926076.1 NAD(P)/FAD-dependent oxidoreductase [Campylobact...  1306    0.0  
+  WP_079862074.1 NAD(P)/FAD-dependent oxidoreductase [Campylobact...  1306    0.0  
+  OEX35234.1 spermidine dehydrogenase [Campylobacter jejuni]          1306    0.0  
+
+Best hit
+
+> WP_002857910.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase 
+[Campylobacter] EAQ94868.1 twin-arginine translocation pathway 
+signal [Campylobacter jejuni subsp. jejuni 84-25] ADC28736.1 
+twin-arginine translocation pathway signal [Campylobacter 
+jejuni subsp. jejuni IA3902] EFV05961.1 twin-arginine 
+translocation pathway signal protein [Campylobacter jejuni subsp. 
+jejuni DFVF1099] EFV07839.1 twin-arginine translocation 
+pathway signal protein [Campylobacter jejuni subsp. jejuni 
+305] EIB16349.1 hypothetical protein cje1_03236 [Campylobacter 
+jejuni subsp. jejuni 129-258] EIB49949.1 hypothetical protein 
+cje147_04941 [Campylobacter jejuni subsp. jejuni 2008-872] 
+EIB61761.1 hypothetical protein cje21_08800 [Campylobacter 
+jejuni subsp. jejuni 1997-7] EIB67430.1 hypothetical protein 
+cje3_07781 [Campylobacter jejuni subsp. jejuni 110-21] 
+EIB74080.1 hypothetical protein cje4_06252 [Campylobacter jejuni 
+subsp. jejuni 140-16] EIB84686.1 hypothetical protein cje79_03010 
+[Campylobacter jejuni subsp. jejuni 1893] EIB87280.1 
+hypothetical protein cje84_00903 [Campylobacter jejuni subsp. 
+jejuni 1928] AJA55325.1 protoporphyrinogen oxidase [Campylobacter 
+jejuni subsp. jejuni] ARJ53169.1 spermidine dehydrogenase 
+[Campylobacter jejuni] PCH16057.1 NAD(P)/FAD-dependent 
+oxidoreductase [Campylobacter sp. 112] PCH30349.1 NAD(P)/FAD-dependent 
+oxidoreductase [Campylobacter sp. 1] AWB39076.1 
+hypothetical protein (NAD-binding domain) [Campylobacter 
+jejuni] AWB40629.1 hypothetical protein (NAD-binding domain) 
+[Campylobacter jejuni] PVX01261.1 NAD(P)/FAD-dependent oxidoreductase 
+[Campylobacter jejuni] PVX04572.1 NAD(P)/FAD-dependent 
+oxidoreductase [Campylobacter jejuni] PVX13732.1 NAD(P)/FAD-dependent 
+oxidoreductase [Campylobacter jejuni]
+Length=633
+
+ Score = 1308 bits (3386),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 633/633 (100%), Positives = 633/633 (100%), Gaps = 0/633 (0%)
+
+Query  1    MQRRDFLNGMALAVVAGMTPLQLLYGKDSKIEDFTKEYYPPNLLGLRGSNNKSYKYAHML  60
+            MQRRDFLNGMALAVVAGMTPLQLLYGKDSKIEDFTKEYYPPNLLGLRGSNNKSYKYAHML
+Sbjct  1    MQRRDFLNGMALAVVAGMTPLQLLYGKDSKIEDFTKEYYPPNLLGLRGSNNKSYKYAHML  60
+
+Query  61   RDGDKFGFSSIKPKENYDLVIVGAGISGLAAACFYQQKFGENKKILILDNHDDFGGHARR  120
+            RDGDKFGFSSIKPKENYDLVIVGAGISGLAAACFYQQKFGENKKILILDNHDDFGGHARR
+Sbjct  61   RDGDKFGFSSIKPKENYDLVIVGAGISGLAAACFYQQKFGENKKILILDNHDDFGGHARR  120
+
+Query  121  NEIQLDEGTILSYGGSESFQSPKALYSKEVIELLKSLGVSIDELAKRFDVNFYPDLKLSR  180
+            NEIQLDEGTILSYGGSESFQSPKALYSKEVIELLKSLGVSIDELAKRFDVNFYPDLKLSR
+Sbjct  121  NEIQLDEGTILSYGGSESFQSPKALYSKEVIELLKSLGVSIDELAKRFDVNFYPDLKLSR  180
+
+Query  181  GVYFSKENFGVDKVVNGNPRKVICDDIPDSKNNGKSIENFIKDFPMTSKDKRELISLFKS  240
+            GVYFSKENFGVDKVVNGNPRKVICDDIPDSKNNGKSIENFIKDFPMTSKDKRELISLFKS
+Sbjct  181  GVYFSKENFGVDKVVNGNPRKVICDDIPDSKNNGKSIENFIKDFPMTSKDKRELISLFKS  240
+
+Query  241  NKDYLKGLSKEEKEEYMAKTSYKKFLEEKVKLSQKAITFFEGMTDDFLALGIDAISCEDA  300
+            NKDYLKGLSKEEKEEYMAKTSYKKFLEEKVKLSQKAITFFEGMTDDFLALGIDAISCEDA
+Sbjct  241  NKDYLKGLSKEEKEEYMAKTSYKKFLEEKVKLSQKAITFFEGMTDDFLALGIDAISCEDA  300
+
+Query  301  RISFLPGFDKLGLDPIEGEALAEMEEPYIYHCADGNATVARLMVRKLIPTVSQKGKDMDD  360
+            RISFLPGFDKLGLDPIEGEALAEMEEPYIYHCADGNATVARLMVRKLIPTVSQKGKDMDD
+Sbjct  301  RISFLPGFDKLGLDPIEGEALAEMEEPYIYHCADGNATVARLMVRKLIPTVSQKGKDMDD  360
+
+Query  361  ITLAHFDYSKLDDSNNKVRLRLNSTVIHVENTKNGTLISYINQGKKYRIKAKNVVMANYN  420
+            ITLAHFDYSKLDDSNNKVRLRLNSTVIHVENTKNGTLISYINQGKKYRIKAKNVVMANYN
+Sbjct  361  ITLAHFDYSKLDDSNNKVRLRLNSTVIHVENTKNGTLISYINQGKKYRIKAKNVVMANYN  420
+
+Query  421  NMIPYIIPSLPKEQKEALSKNVKTSLLHTKVIISNWEPFIKLGVHEIYSPKMPYARTKLD  480
+            NMIPYIIPSLPKEQKEALSKNVKTSLLHTKVIISNWEPFIKLGVHEIYSPKMPYARTKLD
+Sbjct  421  NMIPYIIPSLPKEQKEALSKNVKTSLLHTKVIISNWEPFIKLGVHEIYSPKMPYARTKLD  480
+
+Query  481  YPVDMGGYHHPRDPKKPICIHMVCSPLALANIQGIDLEGLDARDRARVGRNLLFTMSFEE  540
+            YPVDMGGYHHPRDPKKPICIHMVCSPLALANIQGIDLEGLDARDRARVGRNLLFTMSFEE
+Sbjct  481  YPVDMGGYHHPRDPKKPICIHMVCSPLALANIQGIDLEGLDARDRARVGRNLLFTMSFEE  540
+
+Query  541  HEKIIRGQLQGMLGTAGFNHEKDILAIVVNRWGHCYSYTENSLYDDPKIAEQTRLIARKP  600
+            HEKIIRGQLQGMLGTAGFNHEKDILAIVVNRWGHCYSYTENSLYDDPKIAEQTRLIARKP
+Sbjct  541  HEKIIRGQLQGMLGTAGFNHEKDILAIVVNRWGHCYSYTENSLYDDPKIAEQTRLIARKP  600
+
+Query  601  FGNIVIANSDSDWSAYMHSAIDQAYRAINEIKA  633
+            FGNIVIANSDSDWSAYMHSAIDQAYRAINEIKA
+Sbjct  601  FGNIVIANSDSDWSAYMHSAIDQAYRAINEIKA  633
+
+
+
+All isolates (DEPICT, jejuni)
+    157 cattle
+    223 chickens_turkeys
+    272 human
+     55 layers
+     95 pets
+     10 pigs
+     85 small_ruminants
+     39 veal_calves
+     76 water
+     48 wild_birds
+
+Isolates with group_464 (without blast, DEPICT, jejuni)
+     84 cattle
+     13 chickens_turkeys
+      4 layers
+     19 pets
+      8 pigs
+     33 small_ruminants
+     26 veal_calves
+      7 wild_birds
+
+Isolates with group_464 (after blast, DEPICT, jejuni)
+     84 cattle
+     13 chickens_turkeys
+     39 human
+      4 layers
+     19 pets
+      8 pigs
+     33 small_ruminants
+     26 veal_calves
+     11 water
+      7 wild_birds
+
+All isolates (DEPICT, coli)
+      1 cattle
+     15 chickens_turkeys
+      8 human
+      1 layers
+      5 pets
+    100 pigs
+     25 small_ruminants
+     10 veal_calves
+    177 water
+     15 wild_birds
+
+Isolates with group_464 (after blast, DEPICT, coli)
